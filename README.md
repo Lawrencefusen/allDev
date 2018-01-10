@@ -6,4 +6,4 @@ Creating a new branch is quick.
 
 test  for add branch
 
-Createing a new branch is quick&simple.
+Creating a new branch is quick AND simple.
