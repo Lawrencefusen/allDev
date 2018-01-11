@@ -9,3 +9,5 @@ test  for add branch
 Creating a new branch is quick AND simple.
 
 Fast forward test.
+
+Git test bug stash function.
